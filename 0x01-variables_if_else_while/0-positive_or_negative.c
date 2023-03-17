@@ -1,9 +1,15 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
-/* more headers goes there */
 
-/* betty style doc for function main goes there */
+/**
+ * main - entry point
+ *
+ * Description: A C program that prints variable n is positive or negative
+ *
+ * Return: Always 0 (Success)
+ **/
+
 int main(void)
 {
 	int n;
