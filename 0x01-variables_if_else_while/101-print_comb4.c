@@ -12,6 +12,7 @@ int main(void)
 {
 	int n;
 	int m;
+	int o;
 
 	for (n = 0; n < 8; n++)
 	{
